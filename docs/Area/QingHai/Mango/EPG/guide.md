@@ -1,0 +1,2 @@
+### 青海电信芒果登陆
+[（青海电信芒果登陆文档）](http://git.pukkasoft.cn/seeingtv_epg/qing-hai-mangguo/blob/master/doc/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3/%E8%8A%92%E6%9E%9CTV%E8%BF%90%E8%90%A5%E5%95%86%E9%A1%B9%E7%9B%AE%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E8%AF%B4%E6%98%8E%E4%B9%A6V1.5-WEB-%E9%9D%92%E6%B5%B7%E7%94%B5%E4%BF%A1.pdf)
